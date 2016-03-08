@@ -1,2 +1,2 @@
 # jQueryBoilerplate
-A simple jQuery Boilerplate for students to use!
+My awesome jQuery boilerplate

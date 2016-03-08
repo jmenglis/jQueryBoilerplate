@@ -1,2 +1,3 @@
 # jQueryBoilerplate
-My awesome jQuery boilerplate
+
+My awesome jQuery boilerplate!
